@@ -1,4 +1,6 @@
 # Sample Spark Project
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspatten%2FSample-Spark-Project.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspatten%2FSample-Spark-Project?ref=badge_shield)
+
 Sample Spark project that may be compiled into a JAR for running via `spark-submit`.
 
 ## Dependencies
@@ -29,3 +31,7 @@ spark_run := {
   ("/full/path/to/bin/spark_submit " + assembly.value) !
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspatten%2FSample-Spark-Project.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspatten%2FSample-Spark-Project?ref=badge_large)
